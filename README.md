@@ -20,4 +20,4 @@
 - 📊 Power BI Dashboard
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/c-yashwanth-91250b283)
